@@ -52,9 +52,9 @@ If you do not have a preferred environment then we suggest following along exact
 
 Most of your work going forward will take place away from your Skills repository, so before continuing with the course ensure you have the following installed on your **local machine**.
 
-1. [ ] [Node.js](https://nodejs.org)
-2. [ ] [Visual Studio Code](https://code.visualstudio.com/) or your editor of choice
-3. [ ] [Git](https://git-scm.com/)
+1. [ ]  [Node.js](https://nodejs.org)
+2. [ ]  [Visual Studio Code](https://code.visualstudio.com/) or your editor of choice
+3. [ ]  [Git](https://git-scm.com/)
 
 ### :keyboard: Activity 1: Initialize a new JavaScript project
 
@@ -75,7 +75,7 @@ Once you have the necessary tools installed locally, follow these steps to begin
    ```
 5. Create a new folder for our actions files:
    ```shell
-   mkdir -p .github/actions/joke-action
+   span
    ```
 6. Navigate to the `joke-action` folder you just created:
    ```shell
@@ -91,8 +91,7 @@ Once you have the necessary tools installed locally, follow these steps to begin
    ```
 9. Commit those newly added files,we will remove the need to upload **node_modules** in a later step:
    ```shell
-   git add .
-   git commit -m 'add project dependencies'
+   span
    ```
 10. Push your changes to your repository:
     ```shell
